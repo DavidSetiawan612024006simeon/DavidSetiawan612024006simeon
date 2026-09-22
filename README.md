@@ -7,7 +7,7 @@
 
 - 💬 Tanya-tanya tentang **HVAC, kelistrikan, atau pengalaman lapangan**
 
--📌 Saya bisa menjalankan dan masih terus belajar **Autocad-MEP, BricsCAD, GX Works, GT Designer, PVsyst, dan Matlab**
+- 📌 Saya bisa menjalankan dan masih terus belajar **Autocad-MEP, BricsCAD, GX Works, GT Designer, PVsyst, dan Matlab**
 
 - 📫 Cara menghubungi saya **612024006@student.uksw.edu**
 
