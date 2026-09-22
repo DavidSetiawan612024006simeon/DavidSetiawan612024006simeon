@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm David Setiawan</h1>
-<h3 align="center">Mantan Supervisor HVAC | Mahasiswa Teknik Elektro di UKSW</h3>
+<h1 align="center">Hi 👋, Saya David Setiawan</h1>
+<h3 align="center">Pernah Bekerja di HVAC | Mahasiswa Teknik Elektro di UKSW</h3>
 
 - 🔭 Saat ini saya sedang mengerjakan **Sistem kelistrikan & tugas kuliah**
 
-- 👯 I'm looking to collaborate on **Proyek otomasi industri atau IoT**
+- 👯 Saat ini saya mencari partner yang mengerti **Proyek otomasi industri atau IoT**
 
-- 💬 Ask me about **HVAC, kelistrikan, atau pengalaman lapangan**
+- 💬 Tanya-tanya tentang **HVAC, kelistrikan, atau pengalaman lapangan**
+
+-📌 Saya bisa menjalankan dan masih terus belajar **Autocad-MEP, BricsCAD, GX Works, GT Designer, PVsyst, dan Matlab**
 
 - 📫 Cara menghubungi saya **612024006@student.uksw.edu**
 
