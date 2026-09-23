@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Saya David Setiawan</h1>
-<h3 align="center">Pernah Bekerja di perusahaan HVAC | Mahasiswa Teknik Elektro di UKSW</h3>
+<h3 align="center"> Lulusan Teknik Sipil | Pernah Bekerja di perusahaan HVAC | Mahasiswa Teknik Elektro di UKSW</h3>
 
 - 🔭 Saat ini saya sedang mengerjakan **Sistem kelistrikan & tugas kuliah**
 
